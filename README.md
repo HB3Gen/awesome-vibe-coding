@@ -158,6 +158,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
 - [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - A space for sharing tools, best practices, and projects created with vibe coding.
+- [Afterware](https://afterware.xyz) - Gallery of hardware projects built with AI coding tools and off-the-shelf parts, with parts lists, AI-buildability scores, starter prompts and links to each maker.
 
 ## News and Social Media
 
